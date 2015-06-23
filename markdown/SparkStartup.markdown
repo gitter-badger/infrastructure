@@ -1,5 +1,7 @@
 ## Start Spark Cluster
 
+Original script can be found at [here](https://github.com/esse-io/el-data-platform/blob/master/bin/start-spark.sh)
+
 	#!/bin/bash
 	
 	#on bd001

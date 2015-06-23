@@ -4,14 +4,9 @@
 	#!/bin/bash
 	
 	#on bd001
-	hadoop-daemon.sh --script hdfs start namenode
-	
-	
-	# 1-3
-	for i in {1..3}; do ssh bd00$i "hadoop-daemon.sh --script hdfs start datanode"; done
-	
-	# bd001
-	yarn-daemon.sh start resourcemanager
+	set PATH=/docker/opt/apache-cassandra-2.1.6/bin
+	cd $PATH
+	./cassandre
 	
 	# 1-3
-	for i in {1..3}; do ssh bd00$i "yarn-daemon.sh start nodemanager"; done
+	for i in {1..3}; do ssh bd00$i "cd $PATH; ./cassandre"; done

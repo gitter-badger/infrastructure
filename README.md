@@ -4,8 +4,9 @@
 ![Analytics Architecture](/images/20150623_analytics_arch3.png)
 
 ## Analytics Environment
-  * [Start Hadoop Cluster](markdown/HadoopStartup.markdown)
+  * [Start Hadoop and Yarn Cluster](markdown/HadoopStartup.markdown)
   * [Start Spark Cluster](markdown/SparkStartup.markdown)
+  * [Start Cassandre Cluster](markdown/CassandreStartup.markdown)
 
 ## Environment Setup
   * [Docker Enabled Ubuntu 1404](markdown/DockerEnabledUbuntu.markdown)

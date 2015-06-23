@@ -8,7 +8,7 @@
   * [Start Spark Cluster](markdown/SparkStartup.markdown)
   * [Start Cassandre Cluster](markdown/CassandreStartup.markdown)
 
-## Environment Setup
+## Development Environment Setup
   * [Docker Enabled Ubuntu 1404](markdown/DockerEnabledUbuntu.markdown)
   * [Install Redis in  Docker](markdown/RedisInstall.markdown)
   * [Install and Configure PostgreSQL in Docker](markdown/PostgreSQLInstall.markdown)

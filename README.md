@@ -5,6 +5,7 @@
 
 ## Analytics Environment
   * [Start Hadoop Cluster](markdown/HadoopStartup.markdown)
+  * [Start Spark Cluster](markdown/SparkStartup.markdown)
 
 ## Environment Setup
   * [Docker Enabled Ubuntu 1404](markdown/DockerEnabledUbuntu.markdown)

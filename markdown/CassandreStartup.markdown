@@ -1,5 +1,6 @@
 ## Start Hadoop Cluster
 
+You need to verify [conf/cassandra.yaml](bin/cassandra.yaml)
 
 	#!/bin/bash
 	

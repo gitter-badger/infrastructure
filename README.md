@@ -1,7 +1,7 @@
 # esse.io
 
 ## Analytics Archirecture
-![Analytics Architecture](/images/20150622_analytics_arch2.png)
+![Analytics Architecture](/images/20150622_analytics_arch3.png)
 
 ## Environment Setup
   * [Docker Enabled Ubuntu 1404](markdown/DockerEnabledUbuntu.markdown)

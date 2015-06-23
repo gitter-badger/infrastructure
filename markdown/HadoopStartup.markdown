@@ -1,5 +1,7 @@
 ## Start Hadoop Cluster
 
+The original script can be found [here](https://github.com/esse-io/el-data-platform/blob/master/bin/start-hd.sh)
+
 	#!/bin/bash
 	
 	#on bd001

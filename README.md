@@ -3,6 +3,9 @@
 ## Analytics Archirecture
 ![Analytics Architecture](/images/20150623_analytics_arch3.png)
 
+## Analytics Environment
+  * [Start Hadoop Cluster](markdown/HadoopStartup.markdown)
+
 ## Environment Setup
   * [Docker Enabled Ubuntu 1404](markdown/DockerEnabledUbuntu.markdown)
   * [Install Redis in  Docker](markdown/RedisInstall.markdown)

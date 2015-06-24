@@ -1,4 +1,4 @@
-## Start Hadoop Cluster
+## Start Cassandra Cluster
 
 You need to verify the variables in [conf/cassandra.yaml](/conf/cassandra/cassandra.yaml). In our case, we separate Cassandra data in a specific location, to avoid huge data growth breaking the partition in production.
 
